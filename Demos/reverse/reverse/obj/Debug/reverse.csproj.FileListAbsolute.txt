@@ -1,0 +1,8 @@
+F:\Day - 5\reverse\reverse\bin\Debug\reverse.exe.config
+F:\Day - 5\reverse\reverse\bin\Debug\reverse.exe
+F:\Day - 5\reverse\reverse\bin\Debug\reverse.pdb
+F:\Day - 5\reverse\reverse\obj\Debug\reverse.csproj.AssemblyReference.cache
+F:\Day - 5\reverse\reverse\obj\Debug\reverse.csproj.SuggestedBindingRedirects.cache
+F:\Day - 5\reverse\reverse\obj\Debug\reverse.csproj.CoreCompileInputs.cache
+F:\Day - 5\reverse\reverse\obj\Debug\reverse.exe
+F:\Day - 5\reverse\reverse\obj\Debug\reverse.pdb

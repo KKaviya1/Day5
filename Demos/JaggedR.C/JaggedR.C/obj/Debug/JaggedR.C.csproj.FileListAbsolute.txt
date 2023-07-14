@@ -1,0 +1,8 @@
+F:\Day - 5\JaggedR.C\JaggedR.C\bin\Debug\JaggedR.C.exe.config
+F:\Day - 5\JaggedR.C\JaggedR.C\bin\Debug\JaggedR.C.exe
+F:\Day - 5\JaggedR.C\JaggedR.C\bin\Debug\JaggedR.C.pdb
+F:\Day - 5\JaggedR.C\JaggedR.C\obj\Debug\JaggedR.C.csproj.AssemblyReference.cache
+F:\Day - 5\JaggedR.C\JaggedR.C\obj\Debug\JaggedR.C.csproj.SuggestedBindingRedirects.cache
+F:\Day - 5\JaggedR.C\JaggedR.C\obj\Debug\JaggedR.C.csproj.CoreCompileInputs.cache
+F:\Day - 5\JaggedR.C\JaggedR.C\obj\Debug\JaggedR.C.exe
+F:\Day - 5\JaggedR.C\JaggedR.C\obj\Debug\JaggedR.C.pdb

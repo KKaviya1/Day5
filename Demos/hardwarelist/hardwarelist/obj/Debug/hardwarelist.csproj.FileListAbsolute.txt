@@ -1,0 +1,8 @@
+F:\Day - 5\hardwarelist\hardwarelist\bin\Debug\hardwarelist.exe.config
+F:\Day - 5\hardwarelist\hardwarelist\bin\Debug\hardwarelist.exe
+F:\Day - 5\hardwarelist\hardwarelist\bin\Debug\hardwarelist.pdb
+F:\Day - 5\hardwarelist\hardwarelist\obj\Debug\hardwarelist.csproj.AssemblyReference.cache
+F:\Day - 5\hardwarelist\hardwarelist\obj\Debug\hardwarelist.csproj.SuggestedBindingRedirects.cache
+F:\Day - 5\hardwarelist\hardwarelist\obj\Debug\hardwarelist.csproj.CoreCompileInputs.cache
+F:\Day - 5\hardwarelist\hardwarelist\obj\Debug\hardwarelist.exe
+F:\Day - 5\hardwarelist\hardwarelist\obj\Debug\hardwarelist.pdb

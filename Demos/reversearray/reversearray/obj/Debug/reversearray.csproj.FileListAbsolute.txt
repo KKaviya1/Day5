@@ -1,0 +1,8 @@
+F:\Day - 5\reversearray\reversearray\bin\Debug\reversearray.exe.config
+F:\Day - 5\reversearray\reversearray\bin\Debug\reversearray.exe
+F:\Day - 5\reversearray\reversearray\bin\Debug\reversearray.pdb
+F:\Day - 5\reversearray\reversearray\obj\Debug\reversearray.csproj.AssemblyReference.cache
+F:\Day - 5\reversearray\reversearray\obj\Debug\reversearray.csproj.SuggestedBindingRedirects.cache
+F:\Day - 5\reversearray\reversearray\obj\Debug\reversearray.csproj.CoreCompileInputs.cache
+F:\Day - 5\reversearray\reversearray\obj\Debug\reversearray.exe
+F:\Day - 5\reversearray\reversearray\obj\Debug\reversearray.pdb

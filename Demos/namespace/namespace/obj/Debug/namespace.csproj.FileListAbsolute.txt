@@ -1,0 +1,8 @@
+F:\Day - 5\namespace\namespace\obj\Debug\namespace.csproj.AssemblyReference.cache
+F:\Day - 5\namespace\namespace\obj\Debug\namespace.csproj.SuggestedBindingRedirects.cache
+F:\Day - 5\namespace\namespace\obj\Debug\namespace.csproj.CoreCompileInputs.cache
+F:\Day - 5\namespace\namespace\bin\Debug\@namespace.exe.config
+F:\Day - 5\namespace\namespace\bin\Debug\@namespace.exe
+F:\Day - 5\namespace\namespace\bin\Debug\@namespace.pdb
+F:\Day - 5\namespace\namespace\obj\Debug\@namespace.exe
+F:\Day - 5\namespace\namespace\obj\Debug\@namespace.pdb

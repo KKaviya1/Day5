@@ -1,0 +1,8 @@
+F:\Day - 5\hastable\hastable\bin\Debug\hastable.exe.config
+F:\Day - 5\hastable\hastable\bin\Debug\hastable.exe
+F:\Day - 5\hastable\hastable\bin\Debug\hastable.pdb
+F:\Day - 5\hastable\hastable\obj\Debug\hastable.csproj.AssemblyReference.cache
+F:\Day - 5\hastable\hastable\obj\Debug\hastable.csproj.SuggestedBindingRedirects.cache
+F:\Day - 5\hastable\hastable\obj\Debug\hastable.csproj.CoreCompileInputs.cache
+F:\Day - 5\hastable\hastable\obj\Debug\hastable.exe
+F:\Day - 5\hastable\hastable\obj\Debug\hastable.pdb
