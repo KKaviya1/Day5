@@ -1,0 +1,8 @@
+F:\Day - 5\ex.jagged\ex.jagged\bin\Debug\ex.jagged.exe.config
+F:\Day - 5\ex.jagged\ex.jagged\bin\Debug\ex.jagged.exe
+F:\Day - 5\ex.jagged\ex.jagged\bin\Debug\ex.jagged.pdb
+F:\Day - 5\ex.jagged\ex.jagged\obj\Debug\ex.jagged.csproj.AssemblyReference.cache
+F:\Day - 5\ex.jagged\ex.jagged\obj\Debug\ex.jagged.csproj.SuggestedBindingRedirects.cache
+F:\Day - 5\ex.jagged\ex.jagged\obj\Debug\ex.jagged.csproj.CoreCompileInputs.cache
+F:\Day - 5\ex.jagged\ex.jagged\obj\Debug\ex.jagged.exe
+F:\Day - 5\ex.jagged\ex.jagged\obj\Debug\ex.jagged.pdb
